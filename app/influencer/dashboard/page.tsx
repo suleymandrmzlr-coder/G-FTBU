@@ -1,0 +1,1 @@
+export default function InfluencerDashboardPage(){return <div>infl</div>}
