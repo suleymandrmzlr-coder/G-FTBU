@@ -1,1 +1,0 @@
-export default function BuyerDashboardPage(){return <div>buyer</div>}
